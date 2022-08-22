@@ -1,0 +1,3 @@
+cus_gender,cus_name,count(O.cus_id)
+M,PULKIT,4
+F,MEGHA,1
